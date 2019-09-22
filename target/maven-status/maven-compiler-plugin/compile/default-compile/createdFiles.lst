@@ -1,0 +1,3 @@
+com\klapertart\App.class
+com\klapertart\model\Product.class
+com\klapertart\service\ProductService.class
